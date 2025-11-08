@@ -6,7 +6,6 @@ const config = {
     Isaac2012: "Isaac2012",
     Ham_sandwich_67: "67sadie#",
     Ironclad276: "schoolkutty",
-    alfa: "1111"
   },
 };
 
