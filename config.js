@@ -6,6 +6,9 @@ const config = {
     Isaac2012: "Isaac2012",
     Ham_sandwich_67: "67sadie#",
     Ironclad276: "schoolkutty",
+    sn6opy: "bloodygrassonmyknees",
+    sadbartsimpson: "5lanehighway",
+    PorkChop13: "Ducpe21^",
   },
 };
 
