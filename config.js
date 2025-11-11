@@ -9,6 +9,7 @@ const config = {
     sn6opy: "bloodygrassonmyknees",
     sadbartsimpson: "5lanehighway",
     PorkChop13: "Ducpe21^",
+    rs1210: "2233"
   },
 };
 
