@@ -1,7 +1,8 @@
-require('dotenv').config();
+import dotenv from "dotenv";
+dotenv.config();
 
-// const user1 = process.env.MICAH_USERNAME;
-// const pass1 = process.env.MICAH_PASSWORD;
+const user1 = process.env.USER1_USERNAME;
+const pass1 = process.env.USER1_PASSWORD;
 const adminuser = process.env.ADMINUSERNAME;
 const adminpass = process.env.ADMINPASSWORD;
 
