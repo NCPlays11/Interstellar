@@ -3,8 +3,8 @@ dotenv.config();
 
 const user1 = process.env.USER1_USERNAME;
 const pass1 = process.env.USER1_PASSWORD;
-const adminuser = process.env.ADMINUSERNAME;
-const adminpass = process.env.ADMINPASSWORD;
+const adminuser = process.env.ADMIN_USERNAME;
+const adminpass = process.env.ADMIN_PASSWORD;
 
 const config = {
   challenge: true, // Set to true if you want to enable password protection.
