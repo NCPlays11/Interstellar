@@ -10,8 +10,8 @@ const config = {
   challenge: true, // Set to true if you want to enable password protection.
   users: {
     // You can add multiple users by doing username: 'password'.
-    // user1:pass1,
-    adminuser:adminpass
+    [user1]:pass1,
+    [adminuser]:adminpass
   },
 };
 
